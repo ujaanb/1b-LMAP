@@ -1,0 +1,14 @@
+.DS_Store
+*.log
+
+# Local editor / OS cruft
+.vscode/
+Thumbs.db
+
+# PlantUML tooling (per AGENTS.md §8)
+docs/diagrams/plantuml.jar
+docs/diagrams/*.png
+docs/diagrams/*.svg
+
+# Immutable source documents — kept local
+raw/

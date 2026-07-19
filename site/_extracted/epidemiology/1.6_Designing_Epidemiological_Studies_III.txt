@@ -1,0 +1,99 @@
+
+
+===== PAGE 1 =====
+
+1.6 Designing Epidemiological 
+Studies III
+19/07/2026, 14:59
+1.6 Designing Epidemiological Studies III
+https://gigantic-starfish-733.notion.site/1-6-Designing-Epidemiological-Studies-III-28373001c67481608b18d241bc7ff011
+1/3
+
+
+===== PAGE 2 =====
+
+Main Session
+DESCRIPTIVE VS. ANALYTICAL STUDIES.
+What is the power of a study?
+•
+The power of a study is essentially its ability to detect an effect 
+or an association if one truly exists
+•
+Typically we use 80% or 90% power
+How does changing your power affect the sample size?
+•
+the
+the
+Increasing 
+ power increases 
+ sample size
+How does changing the size of the ‘effect of interest’ affect the sample 
+size?
+•
+ the size of the
+Increasing
+ effect of interest decreases the 
+sample size
+If 20% of your sample drops out over the study period (are lost to 
+follow-up), how could you mitigate this risk?
+•
+Intention-to-treat analysis
+19/07/2026, 14:59
+1.6 Designing Epidemiological Studies III
+https://gigantic-starfish-733.notion.site/1-6-Designing-Epidemiological-Studies-III-28373001c67481608b18d241bc7ff011
+2/3
+
+
+===== PAGE 3 =====
+
+What are the trade-offs and how do you balance the risks arising of 
+Type I and Type II error?
+•
+If 
+ (e.g., approving a harmful 
+drug), keep 
+ (e.g., 0.01)
+false positives are more dangerous
+αlpha low
+◦
+decreasing alpha reduces the risk of getting a false positive, 
+as a higher degree of certainty is required to reject the null 
+hypothesis
+•
+If 
+ (e.g., detecting early 
+signs of a deadly disease), tolerate a higher 
+, and focus on 
+missing a real effect is more harmful
+αlpha
+higher power
+◦
+increasing power reduces the risk of getting a false 
+negative, as power increases the ability of the study to find 
+an association if there is one. if power is really high and 
+there is still no association found, it is likely that there isn’t 
+one 
+What is alpha?
+•
+The study’s 
+. Which is how much you want to rule out 
+chance causing a positive finding: it’s the equivalent of specifying 
+the p-value and it’s also connected with one- and two-tailed 
+testing. Decreasing alpha from 0.05 to 0.01 will increase your 
+sample size.
+alpha
+WHAT IS ALPHA: TYPE I and II ERRORS.
+•
+The 
+ -- finding a difference when a 
+difference does not exist
+probability of a type-I error
+•
+Most medical literature uses an 
+ -- 
+indicating a 5% chance that a significant difference is actually 
+alpha cut-off of 5% (0.05)
+19/07/2026, 14:59
+1.6 Designing Epidemiological Studies III
+https://gigantic-starfish-733.notion.site/1-6-Designing-Epidemiological-Studies-III-28373001c67481608b18d241bc7ff011
+3/3

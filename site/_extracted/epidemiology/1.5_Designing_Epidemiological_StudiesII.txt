@@ -1,0 +1,427 @@
+
+
+===== PAGE 1 =====
+
+1.5 Designing Epidemiological 
+Studies II
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+1/9
+
+
+===== PAGE 2 =====
+
+Section 1 of 4: Prospective cohort studies and 
+relative risk
+Cohort studies
+Describe a major difference between descriptive and analytic studies.
+•
+ studies generally 
+Descriptive
+deal with groups
+•
+ studies generally 
+Analytic
+deal with individuals
+COHORT STUDIES IN THE EPIDEMIOLOGICAL LADDER.
+What is a cohort study?
+•
+A cohort study typically involves
+who are
+ a group of people without 
+disease 
+ observed over a period of time to see what 
+happens to them
+•
+It is also known as a longitudinal study
+What is the defining characteristic of a cohort study?
+•
+The defining characteristic of a cohort study is that
+from
+ you track 
+people forward in time 
+ exposure to outcome
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+2/9
+
+
+===== PAGE 3 =====
+
+Describe the things that need to be considered when selecting a target 
+population for cohort studies.
+•
+If you want to study a chronic disease associated with ageing, 
+you may want to restrict your target population
+•
+The 
+ so may need to
+exposure of interest may be rare
+ target a 
+specific population
+•
+Should initially attempt to identify as many subjects as possible 
+without invoking any restrictions
+Describe how exposures can be assessed in cohort studies.
+•
+Self-report
+•
+Taking physical measurements
+•
+Using existing records
+Describe how outcomes can be assessed in cohort studies.
+•
+Routine surveillance
+•
+Death certificates
+•
+Medical records
+•
+Directly from the participant
+•
+ However, the method used to ascertain the outcome must 
+be identical for both the exposed and the unexposed groups
+NOTE:
+Calculating relative risk
+What is relative risk?
+•
+Relative risk quantifies how much more or less likely exposed 
+individuals are to experience the outcome compared to 
+unexposed individuals
+FORMULA FOR RELATIVE RISK.
+Historical cohort studies
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+3/9
+
+
+===== PAGE 4 =====
+
+What is a historical cohort study?
+•
+In an historical cohort study, 
+ with a distribution of 
+or
+a group of individuals form the 
+cohort,
+exposures and outcomes which 
+are measured contemporaneously 
+ extracted from health 
+records
+◦
+You have the exposure and the outcome, but you are trying 
+to find a link between the two
+•
+Historical cohort studies are typically 
+ because there is a 
+lower quality than 
+prospective cohort studies
+greater risk of 
+both selection and information biases
+Loss to follow-up
+Describe how we decide whether to include patients that are lost to 
+follow-up in a study’s results.
+•
+The final learning from this exercise is to think about loss to 
+follow-up. For example, what assumptions can be reasonably 
+made to account for the loss?
+•
+ those lost to follow up 
+Is it reasonable to group
+with those we 
+know didn’t graduate?
+•
+from the denominator 
+entirely?
+Should those lost to follow up be dropped 
+Well, there’s no right answer about how we manage those lost to 
+follow-up. But there are two guiding principles that we would 
+generally follow:
+1.
+it’s critical that participants lost to follow up in a 
+study are reported as such. Loss to follow up is almost 
+unavoidable, but where large proportions of participants are lost, 
+one must consider the quality of the study, and whether the loss 
+represents a potential bias. You’ll learn more about bias later.
+Be transparent: 
+2.
+if there’s the potential for the loss to bias away 
+from the null hypothesis, then reporting the output statistic which 
+biases towards the null is generally the more sensible course of 
+action.
+Be conservative: 
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+4/9
+
+
+===== PAGE 5 =====
+
+Section 3 of 4: Randomised Controlled Trials
+Randomised Controlled Trials
+What are randomised controlled trials?
+•
+Randomised controlled trials are 
+ which 
+ to 
+experimental studies
+compare and assess the effectiveness of two or more 
+treatments
+see if one treatment is better than another
+•
+Before a prescribed treatment can be used to treat any given 
+condition, it should always be rigorously tested using clinical trials.
+•
+Treatments being tested could be compared with no treatment, 
+ideally using a placebo as the control.
+Describe a limitation of randomised controlled trials.
+•
+While randomised controlled trials are recognised as the gold 
+standard study design for evaluating the impact of an intervention 
+on an outcome, the process of randomisation alone does not 
+wholly protect against bias
+•
+You must account for missing trial participants and 
+include all participants in your analysis and in their original 
+groups, regardless of whether or not they followed that allocation 
+intervention.
+REMEMBER: 
+What is “intention to treat” analysis compared to “per protocol” 
+analysis?
+•
+ analysis is more tolerant of anomalies than 
+per protocol analysis, as it is used to mirror actual practice and 
+see how clinically effective drugs are, including those who may 
+not take the drug course correctly. 
+“Intention to treat”
+◦
+It describes how the drug course has the intention to treat 
+the patient’s condition but acknowledges that for one 
+reason or another, this may not have happened
+•
+analysis typically contains “cleaner” data as it 
+removes anomalies and does not account for those who may not 
+have followed instructions when undergoing the drug course. It 
+strictly wants to focus on the data that “matters.”
+“Per protocol” 
+◦
+It analyses the data of those who have kept per protocol and 
+followed instructions of how to use the drugs
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+5/9
+
+
+===== PAGE 6 =====
+
+The Randomisation Process
+What is meant by random allocation in randomised controlled trials?
+•
+Randomised controlled trials simply involve the random 
+allocation of individuals to receive one of two or more 
+interventions
+•
+Random allocation means that all participants have an equal 
+chance of assignment to each of the available interventions
+•
+Allocation is 
+by the
+and the 
+not determined 
+ investigator, clinicians or 
+participants, 
+allocation is not predictable
+Describe the two steps involved in random allocation.
+1. Generation of allocation sequence
+2.
+ (requires allocation 
+concealment)
+Implementation of the allocation
+Describe some methods use to generate allocation sequences.
+•
+Simple randomisation
+•
+that
+Using a random numbers table or a computer software 
+programme 
+ generates the random sequence as long as 
+the number of participants in the study is large enough
+What is simple randomisation?
+•
+Simple randomisation in clinical trials is 
+ensuring
+a method where 
+participants are assigned to different treatment groups 
+randomly, 
+ each participant has an equal chance of 
+being assigned to any group
+◦
+This is often done using methods like 
+ or 
+flipping a coin
+using a random number generator.
+What is allocation concealment?
+•
+Allocation concealment is 
+into a study
+the process of ensuring that the 
+person enrolling participants 
+ is unaware of the 
+upcoming treatment assignment, preventing selection bias 
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+6/9
+
+
+===== PAGE 7 =====
+
+Why is allocation concealment important in randomised clinical trials?
+•
+Knowledge of the next assignment could influence whether a 
+patient is included or excluded based on perceived prognosis 
+◦
+i.e selection bias
+•
+Allocation concealment is important for preventing selection 
+bias in randomised clinical trials
+Describe the two methods of allocation concealment.
+•
+Sequentially numbered opaque envelopes
+•
+Central randomisation
+Describe how sequentially numbered opaque envelopes work.
+•
+ are 
+ on participant enrolment 
+Envelopes concerning the treatment allocation
+opened by 
+the recruiting clinician
+◦
+i.e drug A or drug B
+•
+The 
+(i.e 001, 002, 003…) and 
+envelopes should be truly opaque, sequentially numbered
+opened in the correct order
+•
+The 
+ as they enrol. This way 
+envelopes are given to the patients in the sequentially 
+numbered order
+the clinician has no idea 
+which patient will get which treatment allocation
+•
+The 
+ and 
+should 
+clinicians should not open the envelope in advance
+ensure that the envelope’s seal has not been broken
+What is central randomisation?
+•
+This usually involves the investigator 
+ and 
+then 
+ which
+enrolling a participant
+telephoning a central randomisation service
+ issues 
+a treatment allocation
+•
+This way there is no issue of see-through or tampered 
+envelopes which can cause selection bias
+Describe the problem that central randomisation addresses.
+•
+This way there is 
+with sequentially 
+numbered opaque envelopes
+no issue of see-through or tampered 
+envelopes which can cause selection bias 
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+7/9
+
+
+===== PAGE 8 =====
+
+Section 4 of 4: Challenges in experimental trials
+Blinding in randomised trials
+What is blinding?
+•
+Blinding as a procedure whereby 
+ of 
+one or more parties in a trial 
+are kept unaware
+which treatment arm (i.e drug A or B) 
+participants have been assigned to 
+•
+It is performed 
+ in the 
+to avoid and prevent conscious or unconscious 
+bias
+design and delivery of a clinical trial
+Recall four sources of bias in a trial.
+•
+Patient being treated
+•
+Clinical staff administering the treatment
+•
+Physician assessing (the effects of) the treatment
+•
+Team interpreting results
+Recall two types of blinding.
+•
+Single blinding
+◦
+usually only the participant
+•
+Double blinding
+What is performance bias?
+•
+ is bias introduced 
+ the participant is in, 
+and that knowledge 
+during the trial
+Performance bias
+when participants or 
+researchers know which intervention group
+influences the care provided or behaviour
+•
+Performance bias refers to 
+in
+ or 
+systematic differences between 
+groups  care
+that is provided,
+in exposure to factors other than the 
+exposure of interest
+What is detection bias?
+•
+Detection bias refers to 
+in 
+systematic differences between groups 
+how outcomes are assessed/determined
+◦
+i.e a doctor knows who took which drug, and so administers 
+tests/exams for this group subconsciously
+•
+It’s a problem when outcomes are subjective
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+8/9
+
+
+===== PAGE 9 =====
+
+What is the power of a study?
+19/07/2026, 14:59
+1.5 Designing Epidemiological Studies II
+https://gigantic-starfish-733.notion.site/1-5-Designing-Epidemiological-Studies-II-28373001c67481f2a3ecd865ba363d8c
+9/9

@@ -1,0 +1,640 @@
+
+
+===== PAGE 1 =====
+
+1.2 Measuring and Describing 
+Disease II
+Section 1 of 4: Introduction to quantitative 
+epidemiology and LMAP-1B assessment  
+Components of qualitative epidemiology.
+•
+ to inform research 
+questions and possible future
+hypotheses
+Explores underlying ideas and themes
+•
+ and outputs of qualitative research 
+Expresses its findings
+in 
+words
+•
+Relies on 
+ but 
+smaller numbers of participants,
+goes in 
+substantial detail
+•
+It’s 
+– and 
+often used earlier in the research process 
+gives you a 
+place to start.
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+1/19
+
+
+===== PAGE 2 =====
+
+Section 2 of 4: The burden of disease
+What’s the third group of conditions (that’s not communicable disease 
+or non-communicable disease)? 
+•
+Injuries
+What is a Disability-adjusted life year (DALY)?
+•
+ (DALYs) are a way to
+ by calculating the 
+DALYs: Disability-adjusted life years
+measure the overall burden of disease
+number of years lost due to disability, ill-health, or early death
+•
+represents the
+One DALY 
+ loss of one year of full health
+Describe why morbidity is equally as important as mortality in health.
+•
+and as a 
+medical profession, we mustn’t be driven purely by what kills 
+people. Quality of life matters. 
+Mortality and morbidity are very different things 
+•
+That back and neck pain are significant causes of morbidity is an 
+incredibly important insight. 
+•
+The size of the burden of neck and back pain has contributed to a 
+range of factors leading to the development of the opioid and 
+pain killer epidemic that we see here and in the United States.
+Distribution of disease between demographics. 
+•
+. All too often we focus on cancer, dementia and 
+cardiovascular disease among older people. And we also think 
+about congenital disorders and childhood cancers among the 
+very young. But most people are between these two poles of the 
+age distribution. What are we doing for them? Supporting positive 
+behaviours among this group will pay dividends in later life.
+Disease is distributed differently between genders and age 
+groups
+Describe the importance of tackling mental health issues.
+•
+. Self harm, substance 
+misuse, anxiety and depressive disorders are hugely important 
+causes of both morbidity and mortality. Mental health is not 
+merely a nice-to-have, but is arguably far more important than 
+more trendy medical innovations such as robotic surgery or 
+targeted cancer therapies. And yet, where do we invest, and what 
+do we celebrate as a profession?
+There is no health without mental health
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+2/19
+
+
+===== PAGE 3 =====
+
+ODDS.
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+3/19
+
+
+===== PAGE 4 =====
+
+PREVALENCE.
+•
+A 
+ is that it 
+limitation of prevalence
+doesn’t take into account 
+new cases of a disease
+•
+External validity is 
+. It's a judgment-based concept that's not calculated 
+as a statistic.
+the degree to which the findings of a study 
+can be applied to other situations, people, settings, and 
+measures
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+4/19
+
+
+===== PAGE 5 =====
+
+CUMULATIVE INCIDENCE.
+•
+i.e incidence being number of new cases
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+5/19
+
+
+===== PAGE 6 =====
+
+INCIDENCE RATE.
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+6/19
+
+
+===== PAGE 7 =====
+
+Section 3 of 4: Measures of frequency: odds, 
+prevalence and incidence
+Measures of Frequency
+What are measures of frequency?
+•
+Measures of frequency are 
+ used 
+statistical measures
+to quantify 
+the frequency of discrete variables occurring or not
+•
+Continuous variables often have summary measures such 
+as mean, median, mode or range
+NOTE: 
+Recall the four main measures of frequency.
+•
+Odds
+•
+Prevalence
+•
+Cumulative incidence
+•
+Incidence rate
+Odds
+What are odds?
+•
+Odds is the 
+ of the 
+ratio
+probability (P) of an event to its 
+complement (1-P)
+•
+Here the term ratio describe the number obtained by dividing 
+one quantity by another
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+7/19
+
+
+===== PAGE 8 =====
+
+Describe the formula for odds, using the possession of a disease as an 
+example.
+Prevalence
+What is prevalence?
+•
+The 
+ at
+proportion of individuals in a population who have the 
+attribute
+ a specific timepoint
+Describe the formula for prevalence, using the possession of a disease 
+as an example.
+What is the significance of a 0% prevalence of a disease?
+•
+in the population 
+No one 
+has the disease
+What is the significance of a 100% prevalence of a disease?
+•
+ in the population 
+Everyone
+has the disease
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+8/19
+
+
+===== PAGE 9 =====
+
+Cumulative Incidence
+What is cumulative incidence?
+•
+The proportion of the population with a new event during a 
+given time period
+Describe the formula for cumulative incidence, using the possession of 
+a disease as an example.
+•
+The denominator for cumulative incidence normally only 
+refers to the proportion of individuals that are susceptible to the 
+disease
+NOTE: 
+What is the significance of a 0 (0%) cumulative incidence of a disease?
+•
+There were no new cases during the study period
+What is the significance of a 1 (100%) cumulative incidence of a 
+disease?
+•
+All individuals developed the disease during the study period
+Recall two alternative terms for cumulative incidence.
+•
+Incidence proportion 
+•
+Risk
+Describe the conditions that must be met for cumulative incidence 
+data to be valid.
+•
+There
+and 
+ with 
+ must be a follow-up period in the study 
+this follow-
+up period must be the same for all participants,
+no new 
+participants being allowed to enter the group
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+9/19
+
+
+===== PAGE 10 =====
+
+Incidence Rate
+Describe the issue that incidence rate addresses as a measure of 
+frequency.
+•
+Sometimes, in real life studies, subjects are lost to follow up and 
+participants enter or leave the study population at any time
+•
+whereas 
+Incidence rate accounts for this 
+cumulative incidence 
+does not, by using the concept of person-time
+What is person time?
+•
+Person-time is a measure of the time that a participant spends 
+in a study 
+•
+During their person-time, the individual could have developed 
+an event that would have been counted as a case 
+•
+This means that every individual contributes person time 
+to a study 
+to the
+NOTE: 
+from the moment they enter 
+ moment they are 
+diagnosed with the disease of interest, die or are lost to follow-
+up (or until the study ends)
+Describe the formula for incidence rate, using the possession of a 
+disease as an example.
+NOTE FROM QUESTIONS:
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+10/19
+
+
+===== PAGE 11 =====
+
+•
+You can use prevalence as a measure of frequency especially when 
+there is a chronic disease. This is because the disease will likely remain 
+with individuals for an extended period of time, so taking a snapshot at 
+any given time shouldn’t be a problem (i.e hypertension). With 
+transient diseases such as influenza, you would want to avoid 
+prevalence as individuals may have caught the disease and recovered 
+before you took your snapshot.
+•
+You would also use incidence rate over cumulative incidence in cases 
+where there are transient diseases such as influenza, as the person-
+time would be lost the moment they get the disease
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+11/19
+
+
+===== PAGE 12 =====
+
+Section 4 of 4: Adjusting for differences: 
+standardisation
+What is standardisation?
+•
+Standardisation is a statistical approach that allows us to draw 
+comparisons
+•
+It is a method used to 
+ between two or 
+more populations that may differ in important ways
+make fair comparisons
+◦
+i.e age, sex, or other demographic factors
+Recall the two types of standardisation.
+•
+Direct standardisation
+•
+Indirect standardisation
+What is meant by crude death rate?
+•
+The
+measures
+usually expressed as
+ crude death rate 
+ the number of deaths in a 
+particular population, scaled to the size of that population, per 
+unit of time, 
+ deaths per 1,000 people
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+12/19
+
+
+===== PAGE 13 =====
+
+What is direct standardisation?
+•
+Direct standardisation by age allows us to compare populations 
+with different age demographics statistically and make reasoned 
+analysis
+•
+ In the example below we see the age-standardisation 
+of two groups (Town A and Town B) based on the expected 
+number of people within each age group 
+EXAMPLE:
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+13/19
+
+
+===== PAGE 14 =====
+
+EXAMPLE: CRUDE VS AGE-STANDARDISED INCIDENCE RATES.
+Indirect standardisation
+What is indirect standardisation?
+•
+Indirect standardisation is a statistical method that 
+.
+compares the 
+observed number of events in a population to the expected 
+number of events based on a standard population
+•
+A 
+ is calculated to
+standardised mortality ratio (SMR)
+ compare 
+death rates between populations
+◦
+Observed / Expected Deaths
+•
+Indirect standardisation is useful when we only have high-
+level data about outcomes, but we can’t make a direct 
+comparison. They are often the first step on a journey of enquiry.
+NOTE: 
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+14/19
+
+
+===== PAGE 15 =====
+
+Describe the difference between direct and indirect standardisation.
+•
+So in 
+you use the 
+ but you 
+ to scale it up accurately and 
+adjust for the difference between the two populations in question 
+(e.g number of people in each age group). 
+direct standardisation, 
+same age-specific 
+rates observed in your study,
+multiply it by a standard 
+population structure (distribution)
+◦
+It is commonly used to compare two sets of data together 
+by standardising them against the same standard dataset
+•
+But in
+ you use the 
+ but you 
+ and 
+compare it to the observed death value.
+ indirect standardisation,
+same population 
+structure seen in your study,
+multiply it by standard 
+age-specific rates to calculate an expected death value,
+◦
+It is commonly used when the 
+(i.e small or unstable)
+age-specific rates are 
+unreliable 
+STANDARDISED MORTALITY RATIO (SMR) CALCULATION.
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+15/19
+
+
+===== PAGE 16 =====
+
+CHATGPT: DIRECT VS INDIRECT STANDARDISATION.
+Let’s say you’re comparing death rates between two countries:
+•
+Country A has a younger population
+•
+Country B has an older population
+Older people are more likely to die simply due to age, so Country B 
+might naturally have a higher death rate. But that doesn't necessarily 
+mean healthcare is worse there—it just has more older people. To 
+make a 
+, you use 
+.
+fair comparison
+standardisation
+There are 
+:
+two main types
+1. Direct Standardisation
+•
+You apply the age-specific 
+ to 
+a 
+.
+rates from your study populations
+standard population structure
+◦
+PELUMI: You use the 
+ but you 
+ to scale it up accurately and adjust for the 
+difference between the two populations in question (e.g age)
+same age-specific rates observed in 
+your study,
+multiply it by a standard population 
+structure
+•
+This tells you: "What would the overall rate be if both populations 
+had the same age distribution?"
+•
+This is often used when comparing two populations
+2. Indirect Standardisation
+•
+You apply the standard age-specific rates to your study 
+population.
+◦
+PELUMI: You use the 
+ but you 
+ to calculate an expected death value, and compare it 
+to the observed death value
+same population structure seen in 
+your study,
+multiply it by a standard age-specific 
+rates
+•
+Often used when age-specific data for the study population 
+isn’t reliable.
+◦
+i.e small population, unstable data
+•
+You get a 
+:
+Standardised Mortality Ratio (SMR)
+SMR = (Observed deaths) / (Expected deaths)
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+16/19
+
+
+===== PAGE 17 =====
+
+EXAMPLE OF INDIRECT STANDARDISATION.
+ Scenario:
+🏡
+You’re studying deaths in 
+ and comparing it to the 
+, which is your standard.
+Town A
+national 
+population
+You want to know:
+“Is mortality in Town A higher or lower than expected?”
+ Step 1: Data You Have
+🧾
+ Town A's population by age group:
+✔️
+Age Group
+People in Town A
+0–14
+1,000
+15–64
+2,000
+65+
+500
+ National death rates (standard age-specific rates):
+✔️
+Age Group
+National Death Rate per 1,000
+0–14
+0.5
+15–64
+2.0
+65+
+10.0
+ Observed deaths in Town A = 
+✔️
+15
+ Step 2: Calculate 
+🧮
+Expected Deaths
+Apply the 
+ to 
+:
+national death rates
+Town A's age structure
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+17/19
+
+
+===== PAGE 18 =====
+
+Age Group
+People in Town 
+A
+National Death 
+Rate
+Expected 
+Deaths
+0–14
+1,000
+0.5 / 1,000
+0.5
+15–64
+2,000
+2.0 / 1,000
+4.0
+65+
+500
+10.0 / 1,000
+5.0
+Total
+—
+—
+9.5 deaths
+ Step 3: Calculate 
+🧮
+SMR (Standardised Mortality 
+Ratio)
+SMR=Observed deathsExpected deaths=159.5=1.58\text{SMR} = 
+\frac{\text{Observed deaths}}{\text{Expected deaths}} = \frac{15}{9.5} 
+= 1.58
+SMR=Expected deathsObserved deaths=9.515=1.58
+ Step 4: Interpret
+✅
+•
+ → Town A had 
+ than expected, 
+after adjusting for age.
+SMR = 1.58
+58% more deaths
+•
+This suggests mortality is 
+ in Town A than what would be 
+expected if it followed national trends.
+higher
+ Recap: What did you use?
+🔁
+•
+ Town A's age-specific death rates → 
+❌
+Not used
+•
+ Town A's 
+ and 
+✅
+age structure
+total observed deaths
+•
+ → used to calculate 
+✅National age-specific death rates
+expected deaths
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+18/19
+
+
+===== PAGE 19 =====
+
+CHATGPT DIRECT VS INDIRECT STANDARDISATION TABLE
+19/07/2026, 14:57
+1.2 Measuring and Describing Disease II
+https://gigantic-starfish-733.notion.site/1-2-Measuring-and-Describing-Disease-II-28373001c67481e8addcd9de13b021be
+19/19

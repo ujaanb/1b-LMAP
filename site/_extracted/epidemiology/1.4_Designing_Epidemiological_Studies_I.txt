@@ -1,0 +1,446 @@
+
+
+===== PAGE 1 =====
+
+1.4 Designing Epidemiological 
+Studies I
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+1/11
+
+
+===== PAGE 2 =====
+
+Section 1 of 3: An introduction to descriptive 
+epidemiology
+What is observational research?
+•
+Observational research involves observing and recording 
+behaviors or phenomena in their natural setting without any 
+manipulation or intervention by the researcher, aiming to 
+describe, explore, or understand a specific phenomenon
+What is interventional research?
+•
+Interventional research, also known as experimental research or 
+clinical trials, 
+(like treatments or procedures)
+to
+involves researchers actively manipulating or 
+assigning interventions 
+ to 
+participants 
+ determine their effects on health outcomes
+What is descriptive epidemiology?
+•
+Descriptive epidemiology is used to describe a problem often at 
+an aggregated level
+•
+It can be used
+and 
+ to inform later analytic research 
+“often forms 
+the first steps of our investigatory process as disease detectives”
+What is analytic epidemiology?
+•
+Analytic epidemiology is used to 
+often at a person-level through which 
+and
+deploy and test hypotheses,
+association can be 
+measured 
+ causation inferred
+Describe the difference between descriptive and analytic epidemiology.
+•
+Descriptive epidemiology is often used more in basic public 
+health practice
+What is a statistic?
+•
+A statistic is 
+ that 
+a fixed value, derived from a sample
+estimates 
+the value in the population
+What is a parameter?
+•
+A parameter is 
+ which
+a fixed, often unknown value,
+ describes 
+an entire population
+•
+A parameter is often unknown because it cannot be truly 
+known unless you survey the entire population is question, which 
+is often unfeasible
+NOTE: 
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+2/11
+
+
+===== PAGE 3 =====
+
+Describe the difference between a statistic and a parameter.
+•
+Statistics are 
+ that 
+estimates drawn from samples
+seek to 
+estimate a population parameter
+What are point estimates?
+•
+A 
+ is a 
+ used to estimate an 
+point estimate
+single value
+unknown 
+population parameter 
+•
+It is a statistic, and it doesn’t show uncertainty which is why it is 
+often paired with confidence intervals
+What is meant by a 95% confidence interval?
+•
+A confidence interval is a range of values between which you 
+are sure that your statistic/parameter in question lies between
+•
+A 95% confidence interval means you are 95% sure that your 
+statistic lies between the upper and lower ends of the 
+confidence interval
+What is a case report?
+•
+A 
+ is a detailed description of a 
+medical case
+case report
+single patient's
+•
+In the modern day, it is often 
+ or 
+used for new/unknown diseases
+unusual presentations of a known disease
+What is a case series?
+•
+A case series is a compilation of case reports
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+3/11
+
+
+===== PAGE 4 =====
+
+What is a cross-sectional study?
+•
+This is a type of study that typically 
+ across a population 
+describes the prevalence of 
+a condition
+at a single-point in time
+•
+It is useful where you may not have the time or money to find 
+something out in detail
+Recall an example of a cross-sectional study.
+•
+A 
+ is an example of a cross-sectional study
+survey
+Describe the limitations of cross-sectional studies.
+•
+Cross-sectional studies are 
+at a single moment in time that 
+limited because they are a single 
+snapshot 
+often lacks context
+•
+Techniques such as 
+ (comparing to other 
+organisations or national averages etc.) can help to compare the 
+out-of-context statistics to other statistics and gain an idea of the 
+significance
+benchmarking
+What is temporality in epidemiology?
+•
+Temporality is the requirement that
+must
+in time 
+ an exposure (or cause) 
+precede an outcome (or effect) 
+to establish a causal 
+relationship
+•
+Cross-sectional studies make it difficult for us to establish levels 
+of temporality because they are a single snapshot in time
+◦
+i.e we cannot observe the relationship between exposures 
+and outcomes
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+4/11
+
+
+===== PAGE 5 =====
+
+What is a longitudinal study?
+•
+Descriptive
+ describe 
+ longitudinal studies
+the prevalence or 
+incidence of an exposure or outcome over time
+•
+For example,
+can
+ two identical cross-sectional studies taken over 
+time 
+ form a longitudinal study
+•
+The term longitudinal is often quite loosely applied to any 
+study – descriptive or analytic that involves measurement at more 
+than one time-point.
+NOTE: 
+What is an ecological study?
+•
+Ecological studies compare groups (rather than individuals)
+•
+They can be 
+ and 
+cross-sectional or longitudinal,
+descriptive or 
+analytic
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+5/11
+
+
+===== PAGE 6 =====
+
+Section 2 of 3: Ecological studies and categorising 
+designs
+What is an ecological study?
+•
+Ecological studies compare groups (rather than individuals)
+◦
+They can be 
+ and 
+cross-sectional or longitudinal,
+descriptive or analytic
+•
+The core principle of ecological studies is that it focuses on the 
+comparison of groups rather than individuals
+When are ecological studies useful?
+•
+When we cannot collect data for all the individuals within a 
+population
+What is ecological fallacy/aggregation bias?
+•
+This is the assumption that associations between groups hold 
+for individuals
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+6/11
+
+
+===== PAGE 7 =====
+
+EXAMPLE: ECOLOGICAL FALLACY/AGGREGATION BIAS.
+•
+Here we see that 
+ is 
+ with an 
+increased chocolate consumption
+associated
+increased number of Nobel Laureates
+◦
+Association ≠ Causation
+•
+However, we cannot make the assumption that increased 
+chocolate consumption increases one’s chances of winning a 
+because 
+Nobel Laureate 
+we have not discovered the variations 
+or context behind the individuals within the dataset that 
+actually won the Nobel Laureate
+•
+would be an example of 
+Making assumptions without accounting for these individuals
+ecological fallacy/aggregation bias
+Why use an ecological study if you will still have to conduct research 
+on an individual level?
+•
+Ecological studies typically use secondary data sources that are 
+already available
+•
+They are
+and 
+ relatively cheap 
+quick to complete
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+7/11
+
+
+===== PAGE 8 =====
+
+EXAMPLE: AGGREGATED VS PERSON-LEVEL DATA.
+•
+for example, 5% of the population died.
+Aggregated data: 
+•
+ for example, participants 1, 7 and 15 died.
+Person-level data:
+What is primary data?
+•
+Primary data are those that are collected by the researcher first-
+hand
+Describe the advantages of primary data.
+•
+Primary data are fantastic because 
+ to 
+ set by the researcher
+they will have been collected 
+for a pre-specified purpose:
+test the hypotheses or answer 
+the research question(s)
+Describe the disadvantages of primary data.
+•
+But of course, this comes at 
+ – both
+significant cost
+ financial and 
+in terms of time
+•
+Collecting data (and cleaning it) is a hugely time-consuming 
+process and will often take a very large proportion of an overall 
+research project’s duration and budget 
+What is secondary data?
+•
+Secondary data is the term applied to 
+ – and then potentially ‘recycled’ 
+for a different purpose  
+data that have been 
+collected for another purpose
+Describe the advantages of secondary data.
+•
+But the upside, is that secondary data analyses are usually faster 
+and cheaper to undertake
+Describe the disadvantages of secondary data.
+•
+Of course, the downside is that secondary data analyses may 
+have to 
+ because 
+make a series of assumptions
+the data 
+analysed weren’t intended for the new purpose
+•
+This may in turn introduce critical limitations on how the findings 
+of such a study are interpreted
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+8/11
+
+
+===== PAGE 9 =====
+
+Describe what is meant by routinely and non-routinely collected data.
+In public health, and in health systems practice we use slightly 
+different terminology but with similar implications:
+•
+Routinely collected data
+◦
+i.e census that is undertaken every ten years
+•
+Non-routinely collected data
+◦
+surveys and other bespoke datasets
+“Non-routinely collected data are the corollary to primary data" What 
+does this mean?
+"Non-routinely collected data are the corollary to primary data"
+➤ It means they are the 
+ or 
+ to 
+primary data — like a mirror concept.
+opposite counterpart
+alternative
+•
+Primary data = collected 
+ for a 
+research question
+deliberately and systematically
+•
+Non-routinely collected data = 
+ or 
+ data 
+from other sources not originally meant for your study
+opportunistic
+ad-hoc
+What is data linkage?
+•
+Data linkage involves
+ and 
+in doing so,
+ joining two or more datasets together
+ finding out more than was possible by analysis of 
+either original dataset alone
+•
+Huge quantities of data are being produced every single day. 
+With modern computing power and statistical packages, data 
+linkage is now possible at a scale and speed never before possible
+•
+ There are lawful and technical challenges that prevent 
+data linkage from being implemented on a national scale in the 
+UK. But it can help us to discover a lot of trends
+NOTE:
+LOOK AT ANSWERS UNDER “Categorising epidemiological data and 
+analysis”.
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+9/11
+
+
+===== PAGE 10 =====
+
+Section 3 of 3: Cross sectional studies, case-
+control and odds ratios
+What is a cross-sectional study?
+•
+This is a type of study that typically 
+ across a population 
+describes the prevalence of 
+a condition
+at a single-point in time (i.e a 
+snapshot)
+◦
+It is described as a snapshot because you are observing the 
+exposure and the outcome at the same moment in time
+◦
+Each individual is only assessed once and there is no follow-
+up
+•
+It is useful where you may not have the time or money to find 
+something out in detail
+Recall an example of a cross-sectional study.
+•
+A 
+ is an example of a cross-sectional study
+survey
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+10/11
+
+
+===== PAGE 11 =====
+
+ANALYTIC, OBSERVATIONAL AND EXPERIMENTAL STUDIES.
+19/07/2026, 14:57
+1.4 Designing Epidemiological Studies I
+https://gigantic-starfish-733.notion.site/1-4-Designing-Epidemiological-Studies-I-28373001c6748158addefa4f984044fb
+11/11

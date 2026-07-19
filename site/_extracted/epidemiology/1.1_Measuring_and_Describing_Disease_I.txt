@@ -1,0 +1,388 @@
+
+
+===== PAGE 1 =====
+
+1.1 Measuring and Describing 
+Disease I
+Section 1 of 5: Welcome to epidemiology and the 
+burden of disease 
+What does it mean for a disease to be 
+?
+endemic
+•
+Endemic refers to diseases that reside within a population
+◦
+i.e a disease that is consistently present within a particular 
+geographic area or population
+What does it mean for a disease to be 
+?
+epidemic
+•
+Epidemic refers to diseases that befall a population
+◦
+i.e a disease that’s prevalence suddenly increases beyond what's 
+normally expected in a particular area or group
+What is epidemiology?
+•
+The 
+ of the 
+in
+ and the 
+ to the 
+study
+distribution and determinants of health-related 
+states or events  specified populations,
+application of this 
+study
+control of health problems
+◦
+i.e  How often diseases occur in different groups of people and 
+why
+Describe the importance of epidemiology.
+•
+It 
+by
+enables us to prevent disease 
+ making the correct decisions
+•
+For example, if we 
+ in a certain population, we can potentially 
+know the reasons why a certain disease has a 
+certain distribution
+prevent 
+it by making the appropriate interventions
+How many types of prevention are there?
+•
+Three
+Recall the three types of prevention.
+•
+Primary
+•
+Secondary 
+•
+Tertiary
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+1/8
+
+
+===== PAGE 2 =====
+
+What is primary prevention?
+•
+is the 
+through the 
+Primary prevention 
+prevention of disease 
+control 
+of exposure to risk factors
+◦
+i.e reducing salt intake to prevent risk of hypertension
+Describe in one sentence the aim of primary prevention.
+•
+Primary prevention is before the onset of disease
+What is secondary prevention?
+•
+ is the 
+ to 
+ and to 
+Secondary prevention
+application of available measures
+detect early departures from good health
+introduce 
+appropriate treatment and interventions
+◦
+i.e controlling hypertension with antihypertensive drugs
+•
+ Secondary prevention is all about detecting and treating early 
+disease
+NOTE:
+Describe in one sentence the aim of primary prevention.
+•
+Secondary prevention slows progression
+What is tertiary prevention?
+•
+Tertiary prevention is 
+ to 
+ caused by 
+existing departures from good health and 
+the application of measures
+reduce or 
+eliminate long-term
+impairments and disabilities, minimising suffering
+to promote the patient’s 
+adjustments to their condition
+◦
+i.e rehabilitation after stroke to restore pre-morbid functioning
+Describe in one sentence the aim of tertiary prevention.
+•
+Tertiary prevention enables return to functioning after insult
+Describe the six main principles of epidemiology.
+•
+ that doesn’t sound right!
+Curiosity –
+•
+ how could I explain that result?
+Problem solving –
+•
+ what do I need to measure to figure this out?
+Numerical ability –
+•
+ what might I be getting wrong?
+Critical thinking –
+•
+ how do I explain this to people who aren’t 
+epidemiologists?
+Communication –
+•
+on the basis of what I think is going on, what do we do 
+next?
+Creativity – 
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+2/8
+
+
+===== PAGE 3 =====
+
+Describe how we are guided in epidemiological investigations.
+•
+What?
+•
+Why?
+•
+When?
+•
+How?
+•
+Where?
+•
+Who?
+•
+These words place emphasis on three principles that are very 
+important in epidemiology:
+◦
+Time 
+◦
+Person
+◦
+Place
+Section 2 of 5: Exposures and outcomes
+•
+ and 
+ are two important terms in epidemiology.
+Exposures
+outcomes
+What is an exposure?
+•
+An 
+ is essentially 
+exposure
+the variable that we are trying to 
+associate with a change in health status
+◦
+For example, in a study of cancer outcomes, we might look at 
+ and test its association on
+Drug X (the exposure)
+ mortality at 
+five-years (the outcome).
+What is an outcome?
+•
+An outcome is 
+of a particular
+the result or effect 
+ exposure, 
+intervention, or event on health status
+What is a characteristic that we typically desire outcomes to have?
+•
+Outcomes should usually be 
+ as well
+continuous
+◦
+i.e you’d rather 
+values rather than 
+measure blood pressure 
+hypertensive? (YES or NO)
+Describe the general relationship between exposures and outcomes.
+•
+Usually, your 
+ and the 
+exposure will be the independent variable
+outcome will be the dependent variable
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+3/8
+
+
+===== PAGE 4 =====
+
+Section 3 of 5: Epidemiologic Transition and 
+Populations (30 minutes)
+What is the demographic transition model?
+•
+The demographic transition model is a model that
+as a country 
+develops, transitioning from
+ describes how the 
+birth and death rates of a population change over time 
+ high birth and death rates to low birth 
+and death rates
+DEMOGRAPHIC TRANSITION MODEL.
+What is the epidemiological transition model?
+•
+The 
+ transition model is 
+ that uses data such as 
+ to predict the challenges that a 
+population may face at a particular moment in time
+epidemiological
+a progression of the 
+demographic transition model
+birth rate, 
+death rate and life expectancy
+•
+It highlights how society has seen a change in the primary causes of 
+death from infectious diseases → chronic and degenerative diseases
+What is the first stage of the epidemiologic transition model?
+•
+Pestilence and famine
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+4/8
+
+
+===== PAGE 5 =====
+
+Describe the characteristics of the first stage of the epidemiologic transition 
+model.
+•
+Rapid urbanisation
+•
+Constraints on food supply
+•
+High birth rate and high mortality
+•
+Life expectancy low at birth
+Recall the period in time in the UK that can be mapped to this first stage.
+•
+pre-1800s
+What is life expectancy?
+•
+Life expectancy is the average length of time one can expect to live 
+for based on the rest of the population
+What is the second stage of the epidemiologic transition model?
+•
+Receding pandemics
+Recall the period in time in the UK that can be mapped to this second stage.
+•
+1800s-1950s
+Describe the characteristics of the second stage of the epidemiologic 
+transition model.
+•
+Agricultural development improves nutrition
+•
+Life expectancy increases
+•
+Water, sanitation and hygiene
+•
+Vaccination emerges
+•
+High birth rate and reducing mortality
+What is the third stage of the epidemiologic transition model?
+•
+Degenerative and man-made diseases
+Recall the period in time in the UK that can be mapped to this third stage.
+•
+1950s-2010s
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+5/8
+
+
+===== PAGE 6 =====
+
+Describe the characteristics of the third stage of the epidemiologic 
+transition model.
+•
+Lifestyle factors and non-communicable diseases dominate
+◦
+cancer and cardiovascular disease
+•
+Environmental and global determinants drive obesity and other risk 
+factors
+•
+Technology reduces need for physical labour
+•
+Addiction, violence and other issues emerge
+What is the fourth stage of the epidemiologic transition model?
+•
+Delayed Degenerative Diseases and Emerging Infections
+Describe the characteristics of the fourth stage of the epidemiologic 
+transition model.
+•
+ albeit at 
+Health technology defers morbidity,
+increasing financial 
+cost
+•
+Emerging threat of zoonotic disease
+•
+ come to the fore
+Inequalities within and between countries
+Recall the period in time in the UK that can be mapped to this fourth stage.
+•
+Post-2010s
+EPIDEMIOLOGIC TRANSITION MODEL.
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+6/8
+
+
+===== PAGE 7 =====
+
+Explain each of the following population pyramids.
+ANSWER.
+Section 4 of 5: Epidemiologic Transition and 
+Populations (30 minutes)
+What was the role of epidemiology in the history of HIV?
+•
+Describing a consistent constellation of signs and symptoms 
+•
+Identifying the causative pathogen 
+•
+Inferring the mechanism(s) of transmission 
+•
+Determining the risk factors associated with disease transmission and 
+prognosis
+•
+Informing prevention strategies 
+•
+Evaluating the efficacy and effectiveness of therapies (including drugs 
+and other interventions) 
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+7/8
+
+
+===== PAGE 8 =====
+
+What is a case series?
+•
+A document comprising multiple case reports drawn together
+Conclusion:
+•
+Epidemiology is the 
+ and is central to 
+applying the principles of evidence-based medicine. It gives you a language 
+language of population health
+19/07/2026, 14:56
+1.1 Measuring and Describing Disease I
+https://gigantic-starfish-733.notion.site/1-1-Measuring-and-Describing-Disease-I-28373001c674811bafa6cf1a6a4f68e7
+8/8

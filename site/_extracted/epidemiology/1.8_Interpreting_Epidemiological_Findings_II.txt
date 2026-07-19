@@ -1,0 +1,268 @@
+
+
+===== PAGE 1 =====
+
+1.8 Interpreting 
+Epidemiological Findings II
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+1/7
+
+
+===== PAGE 2 =====
+
+Section 1 of 2: Association and causation
+Describe the relationship between association and causation.
+•
+Association ≠ Causation
+What is the Bradford-Hill criteria?
+•
+The Bradford-Hill criteria 
+ from both 
+observational
+and interventional methods
+enable us to infer causation
+•
+Taken together, the Bradford-Hill criteria will not yield a 
+simple threshold or yes/no answer to causation, but it is used 
+carefully and with considerable difficulty to infer causation
+NOTE: 
+Describe the components of the Bradford-Hill criteria.
+•
+Strength
+•
+Consistency
+•
+Specificity
+•
+Temporality
+•
+Biological Gradient
+•
+Plausibility
+•
+Coherence
+•
+Experiment
+•
+Analogy
+Describe the importance of strength in the Bradford-Hill criteria.
+•
+A stronger association increases the confidence that an 
+exposure causes an
+outcome
+•
+For example, originally, Hill highlighted the 200-fold increase in 
+the incidence of scrotal cancer among chimney sweeps in the 
+early twentieth century. This was attributed to exposure to tar and 
+mineral oils.
+◦
+At the time, the relationship between lung cancer and 
+tobacco consumption was relatively new, but the 9 or 10-
+fold increase in risk was suggestive of causality.
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+2/7
+
+
+===== PAGE 3 =====
+
+Describe the importance of consistency in the Bradford-Hill criteria.
+•
+ by time, person and place is 
+Repeatability of findings
+suggestive of causation
+•
+Hill asserted that 
+ across settings 
+ that might befall one or two studies
+consistent findings
+tended to 
+rule out errors or
+fallacies
+Describe the importance of specificity in the Bradford-Hill criteria.
+•
+Specificity describes an association between specific causes 
+and specific
+effects
+•
+Specificity can be informative when present, but its 
+absence conveys very little
+NOTE: 
+Describe the importance of temporality in the Bradford-Hill criteria.
+•
+It is insufficient for Exposure A and Outcome B to co-exist: A 
+must precede B
+Describe the importance of biological gradient in the Bradford-Hill 
+criteria.
+•
+A 
+is a 
+dose-response effect (in the ‘right’ direction) 
+compelling 
+argument for
+causality
+◦
+This criterion is relatively straight-forward and Hill puts 
+forward the example of smoking: a ‘higher risk among those 
+who smoke’ is bolstered by a dose-response relationship of 
+more cigarettes conferring greater risk.
+•
+Quantification is often difficult! Like specificity, when 
+present the biological gradient is suggestive, but it’s absence 
+may be of no value.
+NOTE: 
+Describe the importance of biological plausibility in the Bradford-Hill 
+criteria.
+•
+The relationship should be biologically plausible where the 
+science is
+‘understood’
+Describe the importance of coherence in the Bradford-Hill criteria.
+•
+The association ought to be consistent with the existing theory 
+and knowledge
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+3/7
+
+
+===== PAGE 4 =====
+
+Describe the importance of experimentation in the Bradford-Hill 
+criteria.
+•
+of the 
+proposed link
+Evidence from experimentation should be supportive 
+Describe the importance of analogy in the Bradford-Hill criteria.
+•
+Drawing upon analogous findings, we may make inference on 
+the relationship
+•
+For example:
+◦
+Because Rubella is known to cause deafness, eye and heart 
+problems, it is reasonable to assume that other viral 
+illnesses contracted during pregnancy may render similar 
+pathology (Hill)
+◦
+Because thalidomide caused fetal abnormalities 
+(phocomelia) it is rational to suspect that antenatal drugs 
+may cause similar problems. (Hill)
+What is correlation?
+•
+Correlation is a statistical term that's often
+but
+ incorrectly used as a 
+synonym of association, 
+ describes a linear relationship 
+between two variables
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+4/7
+
+
+===== PAGE 5 =====
+
+CORRELATION.
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+5/7
+
+
+===== PAGE 6 =====
+
+Section 2 of 2: Validity and bias
+Validity and bias
+What is internal validity?
+•
+Internal validity is 
+ about a 
+causal relationship between variables
+the degree to which the design and conduct 
+of a study allow you to draw accurate conclusions
+•
+Are the study’s findings representative of the ‘truth’?
+What is external validity?
+•
+ refers to 
+External validity
+how well the results of a study can be 
+applied to or generalised beyond the specific study setting 
+◦
+i.e to other people, places, times, or conditions
+•
+Are the study’s findings generalisable to similar situations? 
+•
+External validity is sometimes referred to as generalisability
+NOTE: 
+What is bias?
+•
+Bias is the any trend in the collection, analysis, interpretation, 
+publication or review of
+data that can lead to conclusion that are systematically different 
+from the truth.
+•
+A 
+in the
+systematic error 
+ design or conduct of a study can 
+result in bias
+•
+ Bias is always due to systematic error, not random error 
+which usually cancels itself out through the population. 
+Systematic errors → bias can affect the validity of a study
+NOTE:
+Describe the three main categories of bias.
+•
+Selection bias
+•
+Information bias
+•
+Confounding
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+6/7
+
+
+===== PAGE 7 =====
+
+What is selection bias?
+•
+ is a type of error that occurs 
+ are 
+ intended to be analysed
+Selection bias
+when the people or 
+things included in a study or analysis
+not representative of 
+the larger population
+•
+It can occur when the individual’s 
+ in 
+the study are 
+chances of being included
+related to BOTH the exposure and the outcome
+◦
+It can lead to a biased interpretation of the relationship 
+between the two
+◦
+i.e choosing individuals that are related to both exposure 
+and outcome can give us false perception of what is 
+happening in the population
+•
+ Case-control studies are particularly susceptible to 
+selection bias
+NOTE:
+What is Berkson’s bias?
+19/07/2026, 15:00
+1.8 Interpreting Epidemiological Findings II
+https://gigantic-starfish-733.notion.site/1-8-Interpreting-Epidemiological-Findings-II-28373001c67481948d48e610f02f77b2
+7/7

@@ -1,0 +1,185 @@
+
+
+===== PAGE 1 =====
+
+1.9 Interpreting 
+Epidemiological Findings III
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+1/6
+
+
+===== PAGE 2 =====
+
+Section 1 of 3: Confounding in epidemiological 
+studies
+What is confounding?
+•
+Confounding is the effect of an extraneous variable that wholly or 
+partially accounts for the apparent effect of the study exposure, 
+or that masks an underlying true association
+•
+Confounding leads to biased estimates and produces 
+misleading results
+NOTE: 
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+2/6
+
+
+===== PAGE 3 =====
+
+EXAMPLE: CONFOUNDING.
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+3/6
+
+
+===== PAGE 4 =====
+
+Recall the four ways to identify confounding.
+•
+Knowledge of the subject matter
+•
+The three conditions for confounding
+◦
+Associated with the exposure in the source population
+◦
+Associated with the outcome in the absence of the exposure
+◦
+Not a consequence of the exposure
+•
+Stratification
+◦
+Stratified data by variable of interest.
+◦
+Compare stratified specific estimates with the estimate of 
+the whole/pooled data set and the difference is considerable 
+indicates confounding.
+◦
+When the pooled estimate is considerably different from 
+what you would expect based on stratum (group) specific 
+estimates, it is very reasonable to think that there is 
+confounding
+•
+Compare crude and adjusted estimate 
+◦
+If adjusted odds ratio differs from the crude odds radio by 
+15% or more this may
+indicate confounding
+▪
+adjusted estimate is calculated using other techniques 
+such as stratification
+◦
+Not optimal method of identification of confounding
+•
+ You only need one of these methods to identify 
+confounding
+NOTE:
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+4/6
+
+
+===== PAGE 5 =====
+
+Section 2 of 3: Effect modification
+What is effect modification?
+•
+Sometimes 
+, there is
+ between exposure and 
+outcome
+after controlling for confounding and bias
+ a 
+third variable
+which can impact on the association
+•
+This is called effect modification
+When does effect modification exist?
+•
+Effect modification exists 
+ over
+when the strength of the association
+varies
+different levels of a third variable
+•
+ Effect modification is a naturally occurring phenomenon 
+and therefore should not be controlled for, but stratified analysis 
+should be undertaken.
+NOTE:
+◦
+Reporting of results should account for it, for example 
+results are presented stratified by sex
+Describe the tests that can be used to identify whether the variable 
+behind effect modification is actually significant.
+•
+Breslow- Day test
+•
+Q test
+•
+Interaction terms in regression models
+◦
+Data is stratified by variable of interest. Compare 
+stratified specific estimates with the estimate of the 
+whole/pooled data set and the difference is considerable 
+indicates significance
+NOTE: 
+What is a synergistic effect modifier?
+•
+A 
+ will
+synergistic effect modifier
+ potentiate the effects of the 
+exposure
+What is an antagonistic effect modifier?
+•
+An 
+ will 
+antagonistic effect modifier
+diminish the effects of the 
+exposure
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+5/6
+
+
+===== PAGE 6 =====
+
+Describe the difference between effect modification and confounding.
+•
+Confounding is when a third variable 
+ between an exposure and an outcome
+distorts the true 
+association
+◦
+It creates a 
+and you want to 
+control for it
+false or misleading association 
+•
+Effect modification occurs when the 
+ across levels of a third variable
+effect of the exposure on 
+the outcome actually changes
+◦
+It’s 
+, not a distortion and you don’t control for it—
+real
+you
+report it
+Section 3 of 3: Interpreting epidemiological 
+findings
+What is the crude model?
+•
+ is the univariate analysis of exposure vs 
+The crude model
+19/07/2026, 15:00
+1.9 Interpreting Epidemiological Findings III
+https://gigantic-starfish-733.notion.site/1-9-Interpreting-Epidemiological-Findings-III-28373001c67481099bafe17f909c0cb0
+6/6

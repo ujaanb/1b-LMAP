@@ -1,0 +1,389 @@
+
+
+===== PAGE 1 =====
+
+1.7 Interpreting 
+Epidemiological Findings I
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+1/10
+
+
+===== PAGE 2 =====
+
+Section 1 of 2: Systematic and non-systematic 
+reviews
+What is a literature review?
+•
+A 
+ is a 
+ of 
+existing research on a specific topic
+literature review
+critical summary and evaluation
+Recall the two types of literature review.
+•
+Narrative review
+•
+Literature review
+What is a narrative review?
+•
+A narrative review 
+ enabling the reader to rapidly understand the 
+issues
+brings together the published literature into 
+a single article
+•
+It is sometimes referred to as a 
+or
+literature review, scoping review 
+ non-systematic review
+•
+The
+ that is collated into a single article 
+ published literature
+is 
+chosen by the researcher
+Describe the strengths of narrative reviews.
+•
+, normally 
+ may 
+ the latest 
+Agile
+easier and faster to write:
+often be more up 
+to date than
+‘Systematic Review’.
+•
+Particularly 
+or 
+useful when looking at areas with limited research
+higher levels of variation in research approaches
+•
+Can be very 
+ with a less easily answerable research 
+question
+useful where work from different disciplines is 
+being brought together
+Describe the limitations of narrative reviews.
+•
+Subject to 
+ as:
+potential bias
+•
+(sometimes 
+)
+the author is free to select works 
+that may support 
+their opinion
+◦
+although ethical authors and robust peer review should 
+prevent overly-speculative or unbalanced reviews
+•
+With 
+, it is possible that 
+(rather than intent)
+no search being specified
+important 
+evidence is omitted by chance 
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+2/10
+
+
+===== PAGE 3 =====
+
+What is a systematic review?
+•
+The systematic review sets out a highly structured approach to 
+searching, sifting, including and summarising the literature
+◦
+the researcher does not choose the literature that is 
+published
+•
+Often presented as 
+ but 
+the basis for meta-analysis,
+also exists 
+separately
+•
+Systematic reviews are sometimes described as one of the 
+strongest forms of
+evidence
+Describe the strengths of systematic reviews.
+•
+ that relates to a highly 
+focused research
+question
+Aims to collate all available evidence
+•
+ that enables 
+reproducibility. This will
+usually involve a 
+Implements a highly specified protocol
+structured search
+•
+Whether or not evidence is included is based on pre-specified 
+criteria: inclusion criteria
+STEPS WITHIN SYSTEMATIC REVIEW.
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+3/10
+
+
+===== PAGE 4 =====
+
+What is a structured search?
+•
+A structured search approach is a method that 
+ and it 
+uses specific 
+keywords, operators and filters to look for literature
+enables transparency and future researchers to be able to 
+reproduce the approach
+EXAMPLE OF A STRUCTURED SEARCH.
+What are indices?
+•
+Indices often refers to 
+ — places where 
+studies are 
+indexed databases
+catalogued and searchable
+◦
+i.e PubMed
+•
+It is always made clear 
+ and 
+which search indices were used
+at 
+the time period
+involved
+What is screening?
+•
+Screening is 
+ search 
+ and 
+the process of reviewing titles, abstracts, and full 
+texts of the studies retrieved during your literature
+to 
+determine which studies to include in your review
+which to 
+exclude
+•
+ using a 
+to show:
+Screening is usually documented
+PRISMA flow diagram
+◦
+Number of records found
+◦
+How many were excluded at each stage
+◦
+Final number of studies included
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+4/10
+
+
+===== PAGE 5 =====
+
+SYSTEMATIC REVIEWS: SCREENING.
+Describe the limitations of systematic reviews.
+•
+to design the search, review all sources 
+(often thousands) and then synthesise the findings
+Can take many months 
+•
+Only as good as the method (search system) employed
+◦
+i.e a less-than-comprehensive search structure may not 
+return all the evidence.
+•
+ searched.
+Only as good as the indices
+•
+that it incorporates.
+Only as good as the evidence 
+•
+ - often
+Very quickly out of date
+ exacerbated by the delay in 
+publishing
+◦
+TIP: Look at the search date, not the publication date!
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+5/10
+
+
+===== PAGE 6 =====
+
+What is grey literature?
+•
+ refers to 
+ — so it’s not 
+controlled by commercial or scholarly publishers.
+Grey literature
+research and information that’s not 
+published in traditional academic journals
+◦
+i.e evidence not found in indices like PubMed, such as 
+government reports
+•
+Grey literature highlights the fact that 
+: that which has 
+been reviewed and published within academic journals that can 
+be searched via the online indices
+not everything that is 
+known is necessarily in the published literature
+•
+Grey information – what makes up grey literature – is particularly 
+a challenge in the public health and global health arenas, where 
+many implementations and programmes might be reported but 
+with varying degrees of accuracy
+What is the Cochrane collaboration?
+•
+The Cochrane Collaboration 
+where decisions about health and health care are
+seeks a world of improved health 
+ informed by 
+high-quality, relevant and up-to-date synthesised research 
+evidence
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+6/10
+
+
+===== PAGE 7 =====
+
+Section 2 of 2: Meta-analysis 
+What is meta-analysis?
+•
+Meta-analysis is a 
+ used to systematically assess previous research studies 
+to 
+quantitative, formal, epidemiological study 
+design
+derive conclusions about that body of research
+META-ANALYSIS.
+What is a Forest plot?
+•
+A Forest plot is the way in which we communicate the findings 
+of a meta analysis
+•
+ALTERNATIVE: A 
+ is a graphical way to show the 
+ on the same topic, and how they 
+ to form an overall effect.
+forest plot
+results of multiple studies
+combine
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+7/10
+
+
+===== PAGE 8 =====
+
+FOREST PLOT.
+•
+If the diamond for the total line 
+, 
+the overall result is 
+does not cross the no-effect line
+statistically significant
+Describe the condition that needs to be met for meta-analysis to be 
+valid.
+•
+Meta-analysis 
+ or else
+your results are meaningless
+requires that the pooled studies are sufficiently 
+similar:
+Describe the sources of heterogeneity in meta-analyses.
+•
+ patients, selection criteria
+Clinical:
+•
+study design, blinding, intervention approach
+Methodological: 
+•
+ reporting differences
+Statistical:
+•
+ It's really important for you as a reader to understand the 
+degree of heterogeneity and for the authors to communicate 
+what that level of heterogeneity may mean for the findings of the 
+meta analysis.
+NOTE:
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+8/10
+
+
+===== PAGE 9 =====
+
+What is meant by fixed and random effects?
+•
+The weighting of the different studies included with a meta-
+analysis is 
+ however we 
+can 
+mostly proportional to the study size;
+build in assumptions that account for other differences 
+and similarities:
+◦
+Fixed effects
+◦
+Random effects
+•
+Applying each of these effects will have different impacts on 
+weighting and hence the findings of the epidemiological 
+investigation
+What is publication bias?
+•
+ refers to the 
+ to be more likely to be 
+ than 
+studies with 
+.
+Publication bias
+tendency for studies with positive 
+or significant results
+published
+negative, inconclusive, or null results
+•
+A publication funnel plot can show the balance of evidence 
+between studies assuming an overall effect size: more 
+publications on one side of the line may suggest that some 
+studies may not have been reported.
+PUBLICATION FUNNEL PLOT.
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+9/10
+
+
+===== PAGE 10 =====
+
+Describe the limitations of meta-analysis.
+•
+However it can be 
+the 
+and is often 
+limited by the quality of the studies included,
+statistical methods employed 
+only possible 
+after multiple interventional or observational studies have
+19/07/2026, 14:59
+1.7 Interpreting Epidemiological Findings I
+https://gigantic-starfish-733.notion.site/1-7-Interpreting-Epidemiological-Findings-I-28373001c674818881c6c1ece7d60af3
+10/10
