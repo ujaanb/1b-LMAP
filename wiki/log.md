@@ -68,3 +68,7 @@ Allowed operations:
 - Linked local repo to `https://github.com/ujaanb/1b-LMAP.git` and deployed `site/` via GitHub Actions Pages workflow.
 - Live URL: https://ujaanb.github.io/1b-LMAP/
 - Files touched: `.github/workflows/deploy-pages.yml`, `site/.nojekyll`, `README.md`, `wiki/log.md`.
+
+## [2026-07-19] meta | Home page exam notes download
+- Added renamed PDF `site/downloads/LMAP exam notes.pdf` and a download card on the home page.
+- Files touched: `site/downloads/LMAP exam notes.pdf`, `site/index.html`, `site/css/styles.css`, `wiki/log.md`.

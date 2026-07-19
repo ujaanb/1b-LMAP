@@ -205,6 +205,43 @@ code {
   margin: 0 0 1rem;
 }
 
+.exam-notes-section {
+  padding-top: 0;
+  padding-bottom: 0.5rem;
+}
+
+.exam-notes-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  padding: 1.35rem 1.5rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: calc(var(--radius) + 2px);
+  box-shadow: var(--shadow);
+}
+
+.exam-notes-copy h2 {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  letter-spacing: -0.02em;
+  margin: 0 0 0.35rem;
+  color: var(--ink);
+}
+
+.exam-notes-copy p {
+  margin: 0;
+  font-family: var(--font-ui);
+  font-size: 0.92rem;
+  color: var(--muted);
+}
+
+.exam-download {
+  flex-shrink: 0;
+}
+
 .topic-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
